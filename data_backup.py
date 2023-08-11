@@ -1,8 +1,9 @@
 
 # Project: Automated Data Backup
-
-# Description: This project automates the process of backing up critical data from one directory to another. It allows you to schedule automatic backups at specified intervals and maintains a version history of the backed-up files.
-
+"""
+Description: This project automates the process of backing up critical data from one directory to another.
+It allows you to schedule automatic backups at specified intervals and maintains a version history of the backed-up files.
+"""
 
 import os
 import shutil

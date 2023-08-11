@@ -1,8 +1,10 @@
 
 # Project: Website Health validator
-
-# Description: This project automates the process of checking the health status of a list of websites. It sends HTTP requests to each website and determines if they are up and running by checking their status codes. The script then generates a report with the website names and their respective health statuses.
-
+"""
+Description: This project automates the process of checking the health status of a list of websites. 
+It sends HTTP requests to each website and determines if they are up and running by checking their status codes. 
+The script then generates a report with the website names and their respective health statuses.
+"""
 # Steps:
 
 # Create a list of websites to be checked.
@@ -15,8 +17,6 @@
 # Basic knowledge of making HTTP requests and handling responses in Python.
 # Example Code:
 
-# python
-# Copy code
 import requests
 
 def check_website_health(websites):

@@ -1,7 +1,8 @@
 # Project: File Organizer
-
-# Description: This project automates the organization of files in a specified directory. It identifies different types of files based on their extensions and moves them into respective folders.
-
+"""
+Description: This project automates the organization of files in a specified directory. 
+It identifies different types of files based on their extensions and moves them into respective folders.
+"""
 # Steps:
 
 # Choose a directory to be organized (e.g., Downloads folder).

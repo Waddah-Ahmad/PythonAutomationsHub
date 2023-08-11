@@ -1,9 +1,10 @@
 
 
 # Project: Password Generator
-
-# Description: This project creates a simple password generator that generates strong and random passwords based on user-defined criteria. Users can specify the length of the password and choose whether it should include uppercase letters, lowercase letters, numbers, and special characters.
-
+"""
+Description: This project creates a simple password generator that generates strong and random passwords based on user-defined criteria.
+Users can specify the length of the password and choose whether it should include uppercase letters, lowercase letters, numbers, and special characters.
+"""
 # Steps:
 
 # Ask the user for the desired length of the password.

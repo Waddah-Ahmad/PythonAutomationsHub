@@ -1,8 +1,9 @@
 
 # Project: Automated Social Media Posting
-
-# Description: This project automates the process of posting content to social media platforms, such as Twitter, Facebook, or LinkedIn, at specified times. It allows you to schedule and manage your social media posts in advance, saving time and effort.
-
+"""
+Description: This project automates the process of posting content to social media platforms,
+such as Twitter, Facebook, or LinkedIn, at specified times. It allows you to schedule and manage your social media posts in advance, saving time and effort.
+"""
 import tweepy
 import json
 import time

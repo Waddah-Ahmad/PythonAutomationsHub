@@ -1,9 +1,11 @@
 
 # Project: Website Monitoring and Alerting
 
-""" Description: This project automates the monitoring of a website's availability and performance. 
-    It sends periodic HTTP requests to the website and checks the response time and status code.
-    If the website is down or responding slowly, it sends an alert notification via email or other means."""
+""" 
+Description: This project automates the monitoring of a website's availability and performance. 
+It sends periodic HTTP requests to the website and checks the response time and status code.
+If the website is down or responding slowly, it sends an alert notification via email or other means.
+"""
 
 import requests
 import smtplib
